@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+
+<html>
+  
+<div id="background">
+  <img class="background_stretch" src="https://foodtank.com/wp-content/uploads/2021/07/alfons-morales-YLSwjSy7stw-unsplash.jpg" alt="library">
+  </div>
+  
+<div id="backround_right">
+  <img class="background_right_stretch" src="https://miro.medium.com/max/1400/1*f7RgPHp79tPZNZASs1UUSw.jpeg" alt="books">
+  </div>
+  
+<div class="header_text">
+  <div class="header-title">
+    <h1>
+      Carry On <br>
+      With <br>
+      Reading BOOKS
+    </h1>
+  </div>
+  
+  <div class="header_quote">
+    <h2>
+      <br>
+      <br>
+      <br>
+      "Read not to find another life, <br>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; but to enrich your own"
+    </h2>
+  </div>
+  
+  
+  <nav id="navbar">
+    
+    <header> Top 5 books </header>
+    
+    <ul>
+      
+      <li> <a class="nav-link" href="#Rich_dad,_poor_dad">Rich dad, poor dad</a> </li>
+      <li> <a class="nav-link" href="#The_milionaire_fastlane">The milionaire fastlane</a> </li>
+      <li> <a class="nav-link" href="#Subtle_art_of_not_giving_a_fuck">Subtle art of not giving a fuck</a> </li>
+      <li> <a class="nav-link" href="#12_rules_for_life">12 rules for life</a> </li>
+      <li> <a class="nav-link" href="#The_man_searching_for_meaning">The man searching for meaning</a> </li>
+      
+    </ul>
+    
+  </nav>
+  
+  
+<main id="main-doc">
+  <section class="main-section" id="Rich_dad,_poor_dad">
+    <header>Rich dad, poor dad</header>
+    
+    <p>
+      <code>Money instructions</code>
+    </p>
+    
+    <p>
+      <ul>
+        <li>Author is Robert Kiyosaki</li>
+      </ul>
+    </p> 
+  
+  <br>
+    
+  <section class="main-section" id="The_milionaire_fastlane">
+    <header>The milionaire fastlane</header>
+    
+    <p>
+      <code>Life's script</code>
+    </p>
+     
+    <p>
+      <ul>
+        <li>Author is M.J. Demarco</li>
+      </ul>
+    </p>
+  
+  <br>
+    
+  <section class="main-section" id="Subtle_art_of_not_giving_a_fuck">
+    <header>Subtle art of not giving a fuck</header>
+    
+    <p>
+      <code>Dealing with shit</code>
+    </p>
+    
+    <p>
+      <ul>
+        <li>Author is Mark Manson</li>
+      </ul>
+    </p>
+  
+  <br>
+    
+  <section class="main-section" id="12_rules_for_life">
+    <header>12 rules for life</header>
+    
+    <p>
+      <code>Behave correctly</code>
+    </p>
+    
+    <p>
+      <ul>
+        <li>Author is Jordan Peterson</i>
+      </ul>
+    </p>
+  
+  <br>
+    
+  <section class="main-section" id="The_man_searching_for_meaning">
+    <header>The man searching for meaning</header>
+    
+    <p>
+      <code>Life explained</code>
+    </p>
+    
+    <p>
+      <ul>
+        <li>Author is Victor Frankl</li>
+      </ul>
+    </p>
+  
+  <br>
+  
+</main>
+
+</html>
